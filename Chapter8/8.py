@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #to convert a given image into grayscale
 
 import image
@@ -18,7 +19,7 @@ def grayscale(img):
 
             img.setPixel(col,row,newImage)
 
-            
+
 grayscale(img_lu)
 print("Converted")
 win.exitonclick()
