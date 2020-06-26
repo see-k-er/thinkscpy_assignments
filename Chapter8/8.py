@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #to convert a given image into grayscale
 
 import image
